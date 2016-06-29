@@ -1,0 +1,36 @@
+/*
+ Theme Name:   Vantage Child Theme
+ Description:  A child theme of the Vantage theme
+ Author:       Nikola Rožić
+ Template:     vantage
+ Version:      1.0.0
+*/
+
+.vantage_child_fab {
+    border-radius: 15px 0 0 15px;
+    background: #d41714;
+    color: #fff;
+    height: 70px;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    top: 40%;
+    width: 70px;
+}
+
+.vantage_child_fab:hover {
+    background: #e8212e;
+    cursor: pointer;
+}
+
+.vantage_child_link {
+    color: #fff;
+    display: block;
+    font-size: 20px;
+    margin: 25px 0;
+}
+
+.vantage_child_link:hover {
+    color: #fff;
+    text-decoration: none;
+}
